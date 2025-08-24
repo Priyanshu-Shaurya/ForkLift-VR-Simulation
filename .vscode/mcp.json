@@ -1,0 +1,12 @@
+{
+  "servers": {
+    "Unity-MCP": {
+      "command": "D:/Github-Files/ForkLift/Library/mcp-server/win-x64/unity-mcp-server.exe",
+      "args": [
+        "--plugin-port=60606",
+        "--plugin-timeout=10000",
+        "--client-transport=stdio"
+      ]
+    }
+  }
+}
